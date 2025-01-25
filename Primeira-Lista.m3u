@@ -420,7 +420,7 @@ http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/162
 #EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE 9 HD
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/163
 
-#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUB HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="CANAIS HDR+",PREMIERE CLUB HDR+
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUB HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE CLUB HDR+
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1003
 
 #EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="ESPORTES",PREMIERE CLUBES 4K
@@ -441,13 +441,6 @@ http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/112622
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZE 1 4K" tvg-logo="" group-title="ESPORTES ONLINE",CAZE 1 4K
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1265
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZE 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",CAZE 2 4K
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1266
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6fU9ulW.png" group-title="ao vivo | FUTEBOL",Esportes Brasília 
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
