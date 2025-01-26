@@ -12,26 +12,14 @@ http://xciptv.8888play.one:80/228463308/r576049x/2375
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo RJ FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo RJ FHD UHD
-http://tv.fazoeli.co.za/m3u8/globorj.m3u8
-
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo SP HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo SP HD²
-http://tv.fazoeli.co.za/m3u8/globosp.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo TV Santos 
-http://15.235.15.230:14488/
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="GLOBO",TV TEM Bauru 
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/138
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/nPB5NIY.png" group-title="GLOBO",Globo MS HD
-http://15.235.15.230:14504/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -41,18 +29,6 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",RPC Maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",RPC Curitiba
-http://15.235.15.230:14487/
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",TV Asa Branca
-http://15.235.15.230:14492/
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo AL HD
-http://15.235.15.230:14450/
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",TV Mirante
-http://15.235.15.230:14499/MANOTV
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo RS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
@@ -66,22 +42,11 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo Manaus HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo ES HD
-http://xciptv.8888play.one:80/228463308/r576049x/2394
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo ES FHD
-
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo ES FHD²
 http://xciptv.8888play.one:80/228463308/r576049x/2395
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="GLOBO",Globo ES FHD³
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1089
-
-############################################################################ BBB
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2XSah4q.png" group-title="Canais | REALITY",BBB Cam 2 HD
-
 
 ############################################################################ RECORD
 
@@ -121,9 +86,6 @@ http://176.65.146.108:8022/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="RECORD",RecordTV Conquista HD
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="RECORD",RecordTV SC HD
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?ManoTV
-
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="RECORD",RecordTV Juara HD
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
 
@@ -150,17 +112,11 @@ https://super-cdn.link/band/index.m3u8
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band SP HD²
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band Goiânia - TV Sucesso HD 
-https://live-stream.gsnoticias.net.br/live/live-goiania.flv
-
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band TV - Vale do Uruará SD
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band TV - Vale do Uruará HD
-https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8?Manotv
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="BAND",Band MG HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
@@ -188,24 +144,6 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT",SBT RJ HD YT
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT",SBT RS HD YT
-https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT",VTV SBT HD YT
-https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="SBT",SBT PARÁ HD YT
-https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/axHipgS.png" group-title="SBT",TV Jornal SBT YT
-https://ythls.armelin.one/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/YiEq0Sk.png" group-title="SBT",TV Serra Dourada SBT YT
-https://ythls.armelin.one/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
-
 ################################################################################################# ABERTOS
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="ABERTOS",RedeTV!
@@ -220,29 +158,14 @@ https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?Man
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3z9k2eb.png" group-title="ABERTOS",TV LatinaSat 
 https://alanza.iptv2022.com/sh/TVLatinasat/tracks-v1a1/mono.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="ABERTOS",TVE Bahia YT
-https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
-
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="ABERTOS",TVE Bahia HD
-http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="ABERTOS",TVE
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTOS",TV Gazeta HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTOS",TV Gazeta MA SD
-https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTOS",TV Gazeta PA
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura Brasil 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://imgur.com/IUhjJEM.png" group-title="ABERTOS",TV Cultura Pará
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="ABERTOS",CATVE TV Cultura HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
@@ -254,9 +177,6 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklis.m3u8?ManoTV
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="SPORTV",SporTV HD 
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659793
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="SPORTV",SporTV HD²
-https://cr7v.short.gy/manoitv/sptvextra/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="SPORTV",SporTV HD³
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/993
@@ -281,23 +201,11 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 ############################################################################ ESPN
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN HD 
-https://cr7v.short.gy/manoitv/spnHD/ZAP075991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN HD²
-https://cr7v.short.gy/manoitv/spnHD²/Index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN HD³
 https://cr7v.short.gy/manoitv/spneHD³/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN FHD 
-https://cr7v.short.gy/manoitv/ESPFHD/Index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name= "ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN FHD [Alterar] 
 https://cr7v.short.gy/manoitv/ESPNFHDAL/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN",ESPN 2 HD 
-http://tv.fazoeli.co.za/m3u8/espn2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN",ESPN 2 HD
 https://super-cdn.link/espn2/index.m3u8
@@ -308,9 +216,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN",ESPN 2 4k 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129 
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPN",ESPN 3 HD 
-http://tv.fazoeli.co.za/m3u8/espn3.m3u8
-
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPN",ESPN 3 UHD
 https://super-cdn.link/espn3/index.m3u8
 
@@ -319,9 +224,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="ESPN",ESPN 3 4k 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/127  
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPN",ESPN 4 HD 
-http://tv.fazoeli.co.za/m3u8/espn4.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="ESPN",ESPN 4 HD²
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/143
@@ -348,10 +250,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/121
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="BAND SPORTS",Band Sports HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/120
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="BAND SPORTS",Band Sports HD³
-http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
-
 
 ############################################################################ COMBATE
 
@@ -422,13 +320,6 @@ http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/164
 
 
 ############################################################################ FUTEBOL
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV HD
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/112621
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV HD²
-http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/112622
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
