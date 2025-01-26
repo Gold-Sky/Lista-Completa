@@ -443,54 +443,15 @@ http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1157
 
 ############################################################################ NFL
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL 1" tvg-logo="" group-title="NFL",NFL 1
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1123
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL 2" tvg-logo="" group-title="NFL",NFL 2
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1124
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL 3" tvg-logo="" group-title="NFL",NFL 3
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1125
+############################################################################ SPORTS USA
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL 4" tvg-logo="" group-title="NFL",NFL 4
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1126
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL 5" tvg-logo="" group-title="NFL",NFL 5
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1127
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL 6" tvg-logo="" group-title="NFL",NFL 6
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1128
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK USA" tvg-logo="" group-title="NFL",NFL NETWORK USA
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1129
-
-#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE USA" tvg-logo="" group-title="NFL",NFL REDZONE USA
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1130
-
-############################################################################ CANAIS USA
 #EXTINF:-1,USA Bein Sports UHD
 http://supersonictv.live:8080/899559/316805/22187
 
-#EXTINF:-1,USA BeIN Sports 2
-http://supersonictv.live:8080/899559/316805/22189
-
-#EXTINF:-1,USA BeIN Sports 4
-http://supersonictv.live:8080/899559/316805/22190
-
-#EXTINF:-1,USA BeIN Sports 5
-http://supersonictv.live:8080/899559/316805/22191
-
-#EXTINF:-1,USA BeIN Sports 6
-http://supersonictv.live:8080/899559/316805/22192
-
-#EXTINF:-1,USA BeIN Sports 7
-http://supersonictv.live:8080/899559/316805/22193
-
 #EXTINF:-1,USA Bein Sports N Espanol UHD
 http://supersonictv.live:8080/899559/316805/22195
-
-#EXTINF:-1,USA BeIN Sports LaLiga
-http://supersonictv.live:8080/899559/316805/22196
 
 #EXTINF:-1,USA Latin BEIN Sports Latin
 http://supersonictv.live:8080/899559/316805/22197
@@ -504,59 +465,17 @@ http://supersonictv.live:8080/899559/316805/22199
 #EXTINF:-1,USA ESPNU UHD
 http://supersonictv.live:8080/899559/316805/22202
 
-#EXTINF:-1,USA Longhorn Network LHD
-http://supersonictv.live:8080/899559/316805/22207
-
 #EXTINF:-1,USA ESPN SEC Network 
 http://supersonictv.live:8080/899559/316805/22208
 
-#EXTINF:-1,USA ESPN Baseball Regionals
-http://supersonictv.live:8080/899559/316805/22209
-
-#EXTINF:-1,USA ESPN College Extra 1 LHD
-http://supersonictv.live:8080/899559/316805/22211
-
-#EXTINF:-1,USA ESPN College Extra 2 LHD
-http://supersonictv.live:8080/899559/316805/22212
-
-#EXTINF:-1,USA ESPN College Extra 3 LHD
-http://supersonictv.live:8080/899559/316805/22213
-
-#EXTINF:-1,USA ESPN College Extra 4 LHD
-http://supersonictv.live:8080/899559/316805/22214
-
-#EXTINF:-1,USA ESPN College Extra 5 LHD
-http://supersonictv.live:8080/899559/316805/22215
-
-#EXTINF:-1,USA ESPN College Extra 6 LHD
-http://supersonictv.live:8080/899559/316805/22216
-
-#EXTINF:-1,USA ESPN College Extra 7 LHD
-http://supersonictv.live:8080/899559/316805/22217
-
-#EXTINF:-1,USA ESPN College Sports
-http://supersonictv.live:8080/899559/316805/22219
-
 #EXTINF:-1,USA ESPN Deportes UHD
 http://supersonictv.live:8080/899559/316805/22222
-
-#EXTINF:-1,USA ESPN SEC +
-http://supersonictv.live:8080/899559/316805/86594
-
-#EXTINF:-1,USA NBC Sports Washington Plus
-http://supersonictv.live:8080/899559/316805/78975
-
-#EXTINF:-1,USA NBC Sports Washington
-http://supersonictv.live:8080/899559/316805/78974
 
 #EXTINF:-1,USA NBC Sports Philadelphia Plus
 http://supersonictv.live:8080/899559/316805/78973
 
 #EXTINF:-1,USA NBC Sports Philadelphia
 http://supersonictv.live:8080/899559/316805/78972
-
-#EXTINF:-1,USA NBC Sports NorthWest
-http://supersonictv.live:8080/899559/316805/78971
 
 #EXTINF:-1,USA NBC Sports Network UHD
 http://supersonictv.live:8080/899559/316805/78970
@@ -606,9 +525,6 @@ http://supersonictv.live:8080/899559/316805/78957
 #EXTINF:-1,USA FOX Sports Southeast
 http://supersonictv.live:8080/899559/316805/78956
 
-#EXTINF:-1,USA Fox Sports San Diego
-http://supersonictv.live:8080/899559/316805/78953
-
 #EXTINF:-1,USA Fox Sports South
 http://supersonictv.live:8080/899559/316805/78954
 
@@ -636,15 +552,6 @@ http://supersonictv.live:8080/899559/316805/78950
 #EXTINF:-1,USA Fox Sports Oklahoma
 http://supersonictv.live:8080/899559/316805/78951
 
-#EXTINF:-1,USA FOX Sports Prime Ticket
-http://supersonictv.live:8080/899559/316805/78952
-
-#EXTINF:-1,USA Fox Sports Cincinnati
-http://supersonictv.live:8080/899559/316805/78940
-
-#EXTINF:-1,USA Fox Sports College Atlantic
-http://supersonictv.live:8080/899559/316805/78941
-
 #EXTINF:-1,USA Fox Sports Detroit
 http://supersonictv.live:8080/899559/316805/78942
 
@@ -657,22 +564,13 @@ http://supersonictv.live:8080/899559/316805/78944
 #EXTINF:-1,USA FOX SPORTS CAROLINA
 http://supersonictv.live:8080/899559/316805/78939
 
-#EXTINF:-1,USA Fox Sports Arizona
-http://supersonictv.live:8080/899559/316805/78938
-
 #EXTINF:-1,USA Fox Sports 2 UHD
 http://supersonictv.live:8080/899559/316805/78937
 
 #EXTINF:-1,USA Fox Sports Sun (South Florida)
 http://supersonictv.live:8080/899559/316805/83143
 
-############################################################################ CANAIS DE NOTÍCIAS 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3G9NiWt.png" group-title="Canais | NOTÍCIAS",TVD News FHD
-http://201.159.95.110:25461/live/site/site/666.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tyW3Ppf.png" group-title="Canais | NOTÍCIAS",BM&C NEWS
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+############################################################################ NOTÍCIAS 
 
 #EXTINF:-1 tvg-id="Times Brasil Licenciamento CNBC" tvg-name="Times Brasil Licenciamento CNBC" tvg-logo="https://imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil CNBC
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
@@ -736,27 +634,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://imgur.com/TlqB0Uo.png" group-title="Canais | NOTÍCIAS",TV Câmera HD
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="TV Câmera" tvg-name="TV Câmera" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Câmera YT
-https://ythls.armelin.one/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA.m3u8
-
-#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado HD
-https://stream1.freetv.fun/tv-senado-1.m3u8
-
-#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="Canais | NOTÍCIAS",TV Senado YT
-https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
-
-#EXTINF:-1 tvg-id="TV JUSTIÇA" tvg-name="TV JUSTIÇA" tvg-logo="https://i.imgur.com/sURDHLY.png" group-title="Canais | NOTÍCIAS",TV Justiça YT
-https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="Canais | NOTÍCIAS",Canal GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
-https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
