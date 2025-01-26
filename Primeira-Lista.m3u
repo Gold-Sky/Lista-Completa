@@ -421,7 +421,7 @@ http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/165
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/164
 
 
-############################################################################ AO VIVO AGORA 
+############################################################################ FUTEBOL
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
@@ -433,40 +433,12 @@ http://callvip.me:80/DodaLiin/jXcQY5EUFzcqjn72PTRD/112622
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6fU9ulW.png" group-title="ao vivo | FUTEBOL",Esportes Brasília 
-https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+############################################################################ NBA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1276
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 6
-http://izcdn.vood.top:80/hls/232232_.m3u8
-
-
-############################################################################ CANAIS NBA
-
-#EXTINF:-1 tvg-id="" tvg-name="NBA 1 4K" tvg-logo="" group-title="ESPORTES ONLINE",NBA 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="NBA 1 4K" tvg-logo="" group-title="NBA",NBA 1 4K
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1156
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 2 4K" tvg-logo="" group-title="ESPORTES ONLINE",NBA 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="NBA 2 4K" tvg-logo="" group-title="NBA",NBA 2 4K
 http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/1157
 
 ############################################################################ Canais NFL
