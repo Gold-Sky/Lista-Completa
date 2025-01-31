@@ -324,6 +324,22 @@ http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/164
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV FHD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1266
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV HD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1265
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV SD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/576p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV HD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="FUTEBOL",CazéTV FHD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
 ############################################################################ NBA
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA 1 4K" tvg-logo="" group-title="NBA",NBA 1 4K
