@@ -854,3 +854,46 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+############################################################################################### USA
+
+FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png" group-title="USA SPORTS",US: FOX SPORTS DEPORTES
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/707861
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="USA SD (slower internet)",US: FOX SPORTS 1
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/707592
+
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="US: FOX" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA SD (slower internet)",US: FOX
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/707588
+
+#EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="USA: IL  CHICAGO  FOX - WFLD" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: IL  CHICAGO  FOX - WFLD
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708258
+#EXTINF:-1 tvg-id="FOXWYZZ.us" tvg-name="USA: IL  PEORIA-BLOOMINGTON  FOX - WYZZ" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: IL  PEORIA-BLOOMINGTON  FOX - WYZZ
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708259
+#EXTINF:-1 tvg-id="FOXWFFT.us" tvg-name="USA: IN  FORT WAYNE  FOX - WFFT" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: IN  FORT WAYNE  FOX - WFFT
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708260
+#EXTINF:-1 tvg-id="FOXWXIN.us" tvg-name="USA: IN  INDIANAPOLIS  FOX - WXIN" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: IN  INDIANAPOLIS  FOX - WXIN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708261
+#EXTINF:-1 tvg-id="" tvg-name="USA: KY LEXINGTON WDKY" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: KY LEXINGTON WDKY
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/946785
+#EXTINF:-1 tvg-id="FOXWDRB.us" tvg-name="USA: KY  LOUISVILLE  FOX - WDRB" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: KY  LOUISVILLE  FOX - WDRB
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708262
+#EXTINF:-1 tvg-id="FOXWXIX.us" tvg-name="USA: KY  NEWPORT  FOX - WXIX" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: KY  NEWPORT  FOX - WXIX
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708263
+#EXTINF:-1 tvg-id="FOXWGMB.us" tvg-name="USA: LA  BATON ROUGE  FOX - WGMB" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: LA  BATON ROUGE  FOX - WGMB
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708264
+#EXTINF:-1 tvg-id="FOXKADN.us" tvg-name="USA: LA  LAFAYETTE  FOX - KADN" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: LA  LAFAYETTE  FOX - KADN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708265
+#EXTINF:-1 tvg-id="FOXKVHP.us" tvg-name="USA: LA  LAKE CHARLES  FOX - KVHP" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: LA  LAKE CHARLES  FOX - KVHP
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708266
+#EXTINF:-1 tvg-id="FOXWVUE.us" tvg-name="USA: LA  NEW ORLEANS  FOX - WVUE" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: LA  NEW ORLEANS  FOX - WVUE
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708267
+#EXTINF:-1 tvg-id="FOXKMSS.us" tvg-name="USA: LA  SHREVEPORT  FOX - KMSS" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: LA  SHREVEPORT  FOX - KMSS
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708268
+#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="USA: MA  BOSTON  FOX - WFXT" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: MA  BOSTON  FOX - WFXT
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708269
+#EXTINF:-1 tvg-id="FOXWGGBDT2.us" tvg-name="USA: MA  SPRINGFIELD  FOX - WGGB" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: MA  SPRINGFIELD  FOX - WGGB
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708270
+#EXTINF:-1 tvg-id="FOXWBFF.us" tvg-name="USA: MD  BALTIMORE  FOX - WBFF" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: MD  BALTIMORE  FOX - WBFF
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708271
+#EXTINF:-1 tvg-id="FOXWJBK.us" tvg-name="USA: MI  DETROIT  FOX - WJBK" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="USA LOCALS FOX",USA: MI  DETROIT  FOX - WJBK
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/708272
