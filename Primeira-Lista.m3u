@@ -1098,3 +1098,41 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 ############################################################################################### USA
 
+#EXTINF:0 group-title="CANALES DE USA" ,4K Travel (USA) 
+https://tinyurl.com/yzkc4wxe
+
+#EXTINF:0 group-title="CANALES DE USA" ,4UV (USA) 
+https://tinyurl.com/2mbv545j
+
+#EXTINF:0 group-title="CANALES DE USA" ,60 Days In (USA) 
+https://tinyurl.com/4hskddzz
+
+#EXTINF:0 group-title="CANALES DE USA", ACCDN (USA) 
+https://d2ncos3ajn8k1w.cloudfront.net/ACC_Digital_Network_US.m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" , ACCN ESPN (USA) 
+https://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" ,BBC America (USA) 
+https://tinyurl.com/msv8bpv8
+
+#EXTINF:0 group-title="CANALES DE USA" ,BBC Earth (USA) 
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" ,CNN (USA) 
+https://stream1.freetv.fun/cnn-1.m3u8
+
+#EXTINF:0group-title="CANALES DE USA",Cosmos (USA) 
+https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8
+
+#EXTINF:0 group-title="CANALES DE BRASIL" ,ESPN 3 (Brasil/Portugal) 
+http://tv.amplista.com/live/gamaliel/2019/36976.ts?extension=m3u8
+
+#EXTINF:0 group-title="CANALES DE USA" ,ESPN News (USA) 
+https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+
+
+
